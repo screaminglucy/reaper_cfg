@@ -72,8 +72,8 @@ LAST_REGION_NUMBER
 MASTER_VOLUME n/master/volume s/master/volume/str
 MASTER_PAN 
 MASTER_VU n/master/vu
-MASTER_VU_L n/master/vu/L
-MASTER_VU_R n/master/vu/R
+MASTER_VU_L 
+MASTER_VU_R 
 
 MASTER_SEND_NAME 
 MASTER_SEND_VOLUME 
@@ -88,7 +88,7 @@ TRACK_REC_ARM t/1/recenable/1/@ t/2/recenable/1/@ t/3/recenable
 TRACK_MONITOR t/3/input
 TRACK_SELECT b/1/select/1/@ b/2/select/1/@ 
 
-TRACK_VU
+TRACK_VU n/1/vumeter@ n/3/vumeter
 TRACK_VU_L
 TRACK_VU_R
 TRACK_VOLUME n/1/volume@ n/3/volume s/1/level@ s/3/trkvolval
