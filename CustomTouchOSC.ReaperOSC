@@ -118,7 +118,7 @@ TRACK_PAN_TOUCH
 
 FX_NAME s/3/pluginname s/3/insertname@
 FX_NUMBER
-FX_BYPASS b/fx/@/bypass
+FX_BYPASS b/3/insertbypass@
 FX_OPEN_UI
 
 FX_PRESET
